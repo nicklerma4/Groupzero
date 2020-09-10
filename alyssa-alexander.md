@@ -9,4 +9,4 @@ I will miss being in college, especially the social aspect. I will miss going to
 
 Thank you for reading!
 
-![Image]( https://photos.app.goo.gl/hvtZzWu2AXAr8EiT6 )
+![Image]( <img width="298" alt="Summer19" src="https://user-images.githubusercontent.com/70343986/92800287-29bc7e00-f37a-11ea-8b49-e038a2ecb980.png"> )
