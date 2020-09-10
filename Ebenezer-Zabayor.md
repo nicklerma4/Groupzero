@@ -1,7 +1,7 @@
 # Ebenezer Zabayor
 ### Get to know me!
 
-<img src="Ebenezerz.jpg" alt="Ebenezer">
+<img src="Ebenezerz.jpg" alt="Ebenezer"width="50%" height="50%" align="center" >
 
 Howdy! My name Ebenezer Zabayor, Here's some information about myself!
 
