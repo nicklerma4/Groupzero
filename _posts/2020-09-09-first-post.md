@@ -1,7 +1,5 @@
----
-layout: post
-title: Welcome to our Page. Get to know us!
----
+# First post
+### Welcome to our Page. Get to know us!
 
-This is it!
-What a wonderful post!
+in this site, you will get to know a little about each one of us in group zero.
+Thanks and Gig 'em!
