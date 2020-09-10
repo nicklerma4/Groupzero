@@ -9,4 +9,3 @@ I will miss being in college, especially the social aspect. I will miss going to
 
 Thank you for reading!
 
-![Image]( https://photos.app.goo.gl/hvtZzWu2AXAr8EiT6 )
