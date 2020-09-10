@@ -1,4 +1,5 @@
-#Nick
+# Nick Lerma
+### Get to know me!
 
 Howdy, my name is Nicholas Lerma and I would like to tell you a little about me.
 
