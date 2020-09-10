@@ -1,7 +1,4 @@
----
-layout: page
-title: About Nick!
----
+#Nick
 
 Howdy, my name is Nicholas Lerma and I would like to tell you a little about me.
 
