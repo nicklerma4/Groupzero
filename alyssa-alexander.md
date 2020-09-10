@@ -10,5 +10,4 @@ I will miss being in college, especially the social aspect. I will miss going to
 Thank you for reading!
 
 <img width="298" alt="Summer19" src="https://user-images.githubusercontent.com/70343986/92800287-29bc7e00-f37a-11ea-8b49-e038a2ecb980.png">
-
-<img width="624" alt="ring20" src="https://user-images.githubusercontent.com/70343986/92800680-891a8e00-f37a-11ea-8abb-b46dd47e65d6.png">
+![Disneyland](https://user-images.githubusercontent.com/70343986/92801420-355c7480-f37b-11ea-8da8-3e0b5ec53bbe.JPG)
