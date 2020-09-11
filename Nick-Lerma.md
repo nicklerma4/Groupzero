@@ -9,3 +9,5 @@ I have two siblings, one twin brother and a little sister.
 The things I will miss most after graduating will be going to the football games at Kyle Field and tailgating with all my family and friends!
 
 Thanks for getting to know me!
+
+<img src="nick.jpg" alt="Picture of me!" width="50%" height="50%" align="center">
