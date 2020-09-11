@@ -11,4 +11,4 @@ Thank you for reading!
 
 <img width="298" alt="Summer19" src="https://user-images.githubusercontent.com/70343986/92828475-b0805380-f398-11ea-84b8-47aca1470638.png">
 
-<img width="444" alt="Disneyland" src="https://user-images.githubusercontent.com/70343986/92828671-ed4c4a80-f398-11ea-8e57-e61a6805f855.png">
+<img width="298" alt="Disneyland" src="https://user-images.githubusercontent.com/70343986/92828671-ed4c4a80-f398-11ea-8e57-e61a6805f855.png">
